@@ -1,6 +1,6 @@
 # GitHub Template Repository
 
-Welcome to the GitHub template repository for the **courses (CS3361, CS3365)**! This template serves as a starting point for your first assignment of creating and deploying your portfolio. Follow the instructions below to download, customize, and push your work to your own GitHub repository.
+Welcome to the GitHub template repository for the **courses (ENGR1340)**! This template serves as a starting point for you to create and deploy your portfolio. Follow the instructions below to download, customize, and push your work to your own GitHub repository.
 
 ---
 
@@ -24,7 +24,7 @@ The template includes the following structure:
 ### 1. **Clone or Download This Repository**  
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/MaazAmjad/create_website.git
+git clone https://github.com/GaoxiangLi/create_website.git
 ```
 Alternatively, download it as a ZIP file and extract it.
 
@@ -80,3 +80,4 @@ This project template is licensed under the [MIT License](LICENSE).
 ---
 
 Celebrate and enjoy your coding experience! 🚀
+
